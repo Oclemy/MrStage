@@ -1,0 +1,2 @@
+# MrStage
+JavaFX Stage example
