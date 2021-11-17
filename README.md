@@ -4,4 +4,4 @@ JavaFX Stage example
 
 Here is the demo:
 
-![](JavaFX-Stage-Modlaity.PNG)
+![](JavaFX Stage Modlaity.PNG)
